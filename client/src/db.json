@@ -1,0 +1,520 @@
+{
+    "products": [
+        {
+            "id": "product_1",
+            "name": "Men Navy Blue Solid Sweatshirt",
+            "category": "men's clothing",
+            "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/08a7b230-ee8f-46c0-a945-4e835a3c01c01541402833619-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-1.jpg",
+            "photos": [
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/08a7b230-ee8f-46c0-a945-4e835a3c01c01541402833619-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-1.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/efc3d5b9-1bb3-4427-af53-7acae7af98951541402833591-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-2.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/c7e58861-3431-4189-9903-9880f5eebd181541402833566-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-3.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/66490b64-32de-44b4-a6e4-fe36f1c040051541402833548-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-4.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7579188/2018/11/5/957be784-7c5d-4e90-ab9f-0928015b22891541402833645-United-Colors-of-Benetton-Men-Sweatshirts-1271541402833444-5.jpg"
+            ],
+            "description": "Navy solid sweatshirt with patchwork, has a round neck, long sleeves, straight hem",
+            "brand": "United Colors of Benetton",
+            "price": 2599,
+            "size": [
+                1,
+                1,
+                0,
+                1,
+                0
+            ],
+            "isAccessory": false
+        },
+        {
+            "id": "product_2",
+            "name": "Men Black MAMGP T7 Sweat Sporty Jacket",
+            "category": "men's clothing",
+            "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2060340/2017/9/14/11505387708574-Puma-Men-Black-Solid-Sporty-Jacket-371505387708496-1.jpg",
+            "photos": [
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2060340/2017/9/14/11505387708574-Puma-Men-Black-Solid-Sporty-Jacket-371505387708496-1.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2060340/2017/9/14/11505387708559-Puma-Men-Black-Solid-Sporty-Jacket-371505387708496-2.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2060340/2017/9/14/11505387708542-Puma-Men-Black-Solid-Sporty-Jacket-371505387708496-3.jpg"
+            ],
+            "description": "Black solid sporty jacket, has a mock collar, 3 pockets, zip closure, long sleeves, straight hem, unlined lining",
+            "brand": "Puma",
+            "price": 7999,
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                0
+            ],
+            "isAccessory": false
+        },
+        {
+            "id": "product_3",
+            "name": "Men Black Action Parkview Lifestyle Shoes",
+            "category": "men's clothing",
+            "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/b1373b00-37d4-41a0-a908-5d742a68d3661537343756229-1.jpg",
+            "photos": [
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/b1373b00-37d4-41a0-a908-5d742a68d3661537343756229-1.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/329c61f4-640b-44b6-98a6-8fa1fe0540191537343756244-2.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/6ba2ccd4-7f67-486d-abca-ad5a76a9ec701537343756256-3.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/bfb2efca-a6ca-4290-a680-08977b14d8341537343756267-4.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/581164ce-30e8-42da-9454-7e49682ad6371537343756277-5.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2018/9/19/54d44ce2-e62b-4157-8b78-a96a6d187be91537343756288-6.jpg"
+            ],
+            "description": "Flaunt an effortless look with this ultimate pair of black coloured formal shoes from the house of Hush Puppies. Crafted with comfortable TPR sole, ideal for formal wear.",
+            "brand": "Hush Puppies",
+            "price": 6999,
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false
+        },
+        {
+            "id": "product_4",
+            "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "category": "men's accessories",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+            ],
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve.",
+            "brand": "Fjallraven",
+            "price": 109.95,
+            "isAccessory": true
+        },
+        {
+            "id": "product_5",
+            "name": "Mens Casual Premium Slim Fit T-Shirts",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+            ],
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket. Great for casual fashion wear.",
+            "brand": "Mens Casual",
+            "price": 22.3,
+            "isAccessory": false
+        },
+        {
+            "id": "product_6",
+            "name": "Mens Cotton Jacket",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+            ],
+            "description": "Great quality and lightweight. Perfect for casual wear and outdoor adventures.",
+            "brand": "Mens Casual",
+            "price": 55.99,
+            "isAccessory": false
+        },
+        {
+            "id": "product_7",
+            "name": "Unisex Black Galaxy Fit Fitness Band",
+            "category": "electronics",
+            "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/e533a691-3908-41b0-8307-1928a37d4ec41561362162650-Samsung-Galaxy-Fit-4801561362161527-1.jpg",
+            "photos": [
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/e533a691-3908-41b0-8307-1928a37d4ec41561362162650-Samsung-Galaxy-Fit-4801561362161527-1.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/74a60845-202d-4cea-9531-e16931bd994a1561362162628-Samsung-Galaxy-Fit-4801561362161527-2.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/eb5f1aca-1b71-49fa-9c41-aba51f6b01941561362162569-Samsung-Galaxy-Fit-4801561362161527-4.jpg"
+            ],
+            "description": "Keep up your routine for even longer. With plenty of power to last throughout your daily workouts, you can pack in those longer hours to reach your fitness goals. What's more, you won't have to worry about disruptive battery discharge when tracking your activity.",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "Samsung",
+            "price": 9990
+        },
+        {
+            "id": "product_8",
+            "name": "Gear IconX Black Cord-free Fitness Earbuds",
+            "category": "electronics",
+            "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/de2c21f3-6731-4c29-9369-692a486a1b8c1554802772926-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-1.jpg",
+            "photos": [
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/de2c21f3-6731-4c29-9369-692a486a1b8c1554802772926-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-1.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/0423d170-fb49-450f-aef9-bbeb7003554d1554802772913-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-2.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/94813947-e557-4755-9d3d-22529436a1681554802772853-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-5.jpg"
+            ],
+            "description": "Speak commands via Bixby or Google Voice and control your music with just a tap or swipe. Meet your fitness goals with speed, distance, calorie tracking and real-time voice guidance. Find the perfect fit with multiple sizes of ear-tips and wing-tips right in the box. iOS/Mac users: Samsung Gear IconX can be used to stream music or take calls from your iOS handset or tablet. Fitness Functions that require the use of Samsung S-Health app are not available for iOS. 5 hours of Bluetooth streaming, 7 hours of MP3 listening, 4 hours talk time. Warranty: 6 months. Warranty provided by the brand owner / manufacturer",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "Samsung",
+            "price": 13990
+        },
+        {
+            "id": "product_9",
+            "name": "White 2nd Gen AirPods with Charging Case",
+            "category": "electronics",
+            "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/6661d579-12ae-456b-b8f2-e78e5256a99c1558948436173-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-1.jpg",
+            "photos": [
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/6661d579-12ae-456b-b8f2-e78e5256a99c1558948436173-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-1.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/9b14396e-0ee1-46b4-833c-4a2c35b5ce661558948436160-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-2.jpg",
+                "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/27569983-fada-4874-9306-14c945c234781558948436148-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-3.jpg"
+            ],
+            "description": "AirPods with Charging Case: More than 24 hours listening time,3 up to 18 hours talk time8. AirPods (single charge): Up to 5 hours listening time,1 up to 3 hours talk time2. 15 minutes in the case equals up to 3 hours listening time4 or up to 2 hours talk time. Warranty: 1 year. Warranty provided by Brand/Manufacturer",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "Apple",
+            "price": 14999
+        },
+        {
+            "id": "product_10",
+            "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "category": "jewellery",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+            ],
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "brand": "John Hardy",
+            "price": 695,
+            "isAccessory": true
+        },
+        {
+            "id": "product_11",
+            "name": "Solid Gold Petite Micropave",
+            "category": "jewellery",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+            ],
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "brand": "Solid Gold",
+            "price": 168,
+            "isAccessory": true
+        },
+        {
+            "id": "product_12",
+            "name": "White Gold Plated Princess",
+            "category": "jewellery",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+            ],
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "brand": "White Gold",
+            "price": 9.99,
+            "isAccessory": true
+        },
+        {
+            "id": "product_13",
+            "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "category": "jewellery",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+            ],
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "brand": "Pierced Owl",
+            "price": 10.99,
+            "isAccessory": true
+        },
+        {
+            "id": "product_14",
+            "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+            ],
+            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "WD",
+            "price": 64,
+            "rating": {
+                "rate": 3.3,
+                "count": 203
+            }
+        },
+        {
+            "id": "product_15",
+            "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+            ],
+            "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "SanDisk",
+            "price": 109,
+            "rating": {
+                "rate": 2.9,
+                "count": 470
+            }
+        },
+        {
+            "id": "16",
+            "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+            ],
+            "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "Silicon Power",
+            "price": 109,
+            "rating": {
+                "rate": 4.8,
+                "count": 319
+            }
+        },
+        {
+            "id": "17",
+            "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+            ],
+            "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "WD",
+            "price": 114,
+            "rating": {
+                "rate": 4.8,
+                "count": 400
+            }
+        },
+        {
+            "id": "18",
+            "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+            ],
+            "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16:9. Color Supported - 16.7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "Acer",
+            "price": 599,
+            "rating": {
+                "rate": 2.9,
+                "count": 250
+            }
+        },
+        {
+            "id": "190",
+            "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+            ],
+            "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": true,
+            "brand": "Samsung",
+            "price": 999.99,
+            "rating": {
+                "rate": 2.2,
+                "count": 140
+            }
+        },
+        {
+            "id": "19",
+            "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+            ],
+            "description": "Note: The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweight and Warm. Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys) and 1 Hidden Pocket Inside. Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water, for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different seasons and helps you adapt to different climates.",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false,
+            "brand": "BIYLACLESEN",
+            "price": 56.99,
+            "rating": {
+                "rate": 2.6,
+                "count": 235
+            }
+        },
+        {
+            "id": "20",
+            "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+            ],
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false,
+            "brand": "Lock and Love",
+            "price": 29.95,
+            "rating": {
+                "rate": 2.9,
+                "count": 340
+            }
+        },
+        {
+            "id": "21",
+            "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+            ],
+            "description": "Lightweight perfect for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it. Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false,
+            "brand": "Rain Jacket",
+            "price": 39.99,
+            "rating": {
+                "rate": 3.8,
+                "count": 679
+            }
+        },
+        {
+            "id": "22",
+            "name": "MBJ Women's Solid Short Sleeve Boat Neck V",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+            ],
+            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false,
+            "brand": "MBJ",
+            "price": 9.85,
+            "rating": {
+                "rate": 4.7,
+                "count": 130
+            }
+        },
+        {
+            "id": "23",
+            "name": "Opna Women's Short Sleeve Moisture",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+            ],
+            "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false,
+            "brand": "Opna",
+            "price": 7.95,
+            "rating": {
+                "rate": 4.5,
+                "count": 146
+            }
+        },
+        {
+            "id": "24",
+            "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "photos": [
+                "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+            ],
+            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "size": [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "isAccessory": false,
+            "brand": "DANVOUY",
+            "price": 12.99,
+            "rating": {
+                "rate": 3.6,
+                "count": 145
+            }
+        }
+    ]
+}
